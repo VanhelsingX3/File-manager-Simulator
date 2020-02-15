@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+find . -name "main.py" -exec python3 {} main.py \; 
